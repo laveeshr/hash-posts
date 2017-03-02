@@ -1,0 +1,7 @@
+{
+  "require" : {
+    "facebook/graph-sdk" : "~5.0",
+    "j7mbo/twitter-api-php": "dev-master",
+    "abraham/twitteroauth": "^0.7.2"
+  }
+}
